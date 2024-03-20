@@ -33,7 +33,7 @@ header {
 
 header a {
     text-decoration: none;
-    color: black;
+    color: inherit;
 }
 
 h1 {
@@ -41,6 +41,16 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 2px;
     color: black;
+
+}
+
+h2 { 
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: black;
+    text-align: center;
+   
 }
 
 #menu {
@@ -97,8 +107,22 @@ main {
     position: relative; 
     display: flex;
     justify-content: center;
+    
 }
 
+#roof-text {
+    background-color:rgb(240, 255, 255, .7);
+    font-size: 130%;
+    position: absolute;
+    bottom: 60px;
+    /*border-radius: 50%; */
+    width: 50%;
+    min-height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+
+    
+}
 /* Footer this has been taken from Love Running as a template but background color amended*/
 #social-media {
     text-align: center;
@@ -143,15 +167,20 @@ main {
         margin: 0 0.5rem;
     }
 
+}
     /* Main content */
     main {
         /* Push main content down to accommodate larger header */
         margin-top: 79px;
     }
+
+    #roof-text {
+        width: 300px;
+        
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 992px) { 
     #menu a:hover{
         border-bottom: 1px solid #3a3a3a;
     }
