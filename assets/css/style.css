@@ -84,7 +84,6 @@ nav {
 
 /* Main content */
 main {
-    background-color: lightblue;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 47px;
@@ -94,8 +93,10 @@ main {
 #hero {
     height: 600px;
     width: 100%;
-    background: url("../images/everest-6642124.webp") no-repeat center center/cover;
-    position: relative;
+    background: url("../images/everest-6642124.webp") no-repeat center center/cover; 
+    position: relative; 
+    display: flex;
+    justify-content: center;
 }
 
 /* Footer this has been taken from Love Running as a template but background color amended*/
