@@ -20,7 +20,7 @@ body {
 
 /* Header */
 header {
-    background-color: black;
+    background-color: whitesmoke;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -33,14 +33,14 @@ header {
 
 header a {
     text-decoration: none;
-    color: white;
+    color: black;
 }
 
 h1 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: white;
+    color: black;
 }
 
 #menu {
@@ -60,7 +60,7 @@ h1 {
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color: black;
+    background-color: whitesmoke;
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -92,7 +92,7 @@ main {
 
 /* Footer */
 footer {
-    background-color: orange;
+    background-color: whitesmoke;
 }
 
 /* Media query: tablets and larger (768px and up) */
