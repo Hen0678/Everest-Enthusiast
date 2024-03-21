@@ -114,11 +114,11 @@ main {
     background-color:rgb(240, 255, 255, .7);
     font-size: 130%;
     position: absolute;
-    bottom: 60px;
+    bottom: 160px;
     /*border-radius: 50%; */
     width: 50%;
     min-height: 200px;
-    padding-top: 40px;
+    padding-top: 50px;
     padding-left: 10px;
     
 }
@@ -128,8 +128,11 @@ main {
     list-style: circle;
     padding: 20px 0;
     margin-left: 20px;
- 
-   
+       
+}
+
+#heading {
+    margin-top: 2vh;
 }
 
 
