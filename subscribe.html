@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,51 +14,68 @@
     <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
-     <!-- Stylesheet -->
+    <!-- Stylesheet -->
     <link rel="stylesheet" href="assets/css/style.css">
-    </head>
+</head>
+
 <body>
 
     <!-- Header section -->
     <header>
-        <a href="index.html"><h1 id="logo">Everest Enthusiast</h1></a>
+        <a href="index.html">
+            <h1 id="logo">Everest Enthusiast</h1>
+        </a>
 
         <input type="checkbox" id="nav-toggle" name="nav-toggle">
         <label for="nav-toggle" class="nav-toggle-label">
             <i class="fa-solid fa-bars"></i>
         </label>
-    <!-- Nav items on the header -->   
-         <nav>
+        <!-- Nav items on the header -->
+        <nav>
             <ul id="menu">
                 <li><a href="index.html">Home</a></li>
-                <li><a href="interesting-facts.html" >Interesting Facts</a></li>
+                <li><a href="interesting-facts.html">Interesting Facts</a></li>
                 <li><a href="subscribe.html" class="active">Sign Up</a></li>
             </ul>
-        </nav> 
+        </nav>
     </header>
 
-    <!-- Main content -->    
-    <main>Main contect placeholder</main>
-
-
-    <!-- Footer-->
-    <footer>   
-    <ul id="social-media">
-        <li>
-            <a href="https://www.facebook.com/" target="_blank" rel="noopener" aria-label="Visit our Facebook page (opens in a new tab)"><i class="fa-brands fa-facebook"></i></a>
-        </li>
-        <li><a href="https://www.twitter.com/" target="_blank" rel="noopener" aria-label="Visit our Twitter page (opens in a new tab)"><i class="fa-brands fa-twitter"></i></a>
-        </li>
-        <li><a href="https://www.youtube.com/" target="_blank" rel="noopener" aria-label="Visit our Youtube page (opens in a new tab)"><i class="fa-brands fa-youtube"></i></a>
-        </li>  
-        <li><a href="https://www.instagram.com/" target="_blank" rel="noopener" aria-label="Visit our Instagram page (opens in a new tab)"><i class="fa-brands fa-instagram"></i></a>
-        </li>  
-    </ul>
-</footer>
-
-<!-- My Font Awesome link-->
-<script src="https://kit.fontawesome.com/3a6357e737.js" crossorigin="anonymous"></script>
-
-
+    <!-- Main content -->
+    <main>
+        <div>
+            <h2>Lets get you signed up</h2>
+            <br>
+            <p>Interested in fining out more? We aim to add more detail on a regular basis, which will include such
+                things as:</p>
+                <br>
+                <ul id="newsletter">
+                    <li>A gallery page</li>
+                    <li>A timeline of key events at Mount Everest</li>
+                    <li>Life as a Sherpa</li>
+                    <li>The country of Nepal</li>
+                    <li>And lots more!</li>
+                </ul>
+                <br>
+                <p>Complete the form below and we will add you to our mailing list and you will be the first to know
+                    when the site is updated.</p>
+        </div>
+        <br>
+        
+        <section id="signup">
+            <div>
+            <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
+                <label for="first_name">First Name</label>
+                <input type="text" name="first_name" id="first_name" class="text-input" required>
+                <br>
+                <label for="last_name">Last Name</label>
+                <input type="text" name="last_name" id="last_name" class="text-input" required>
+                <br>
+                <label for="email_address">Email Address</label>
+                <input type="email" name="email_address" id="email_address" class="text-input" required>
+                <br>
+                <button type="submit" class="join-button">Sign up</button>
+            </form>
+        </div>      
+        </section> 
 </body>
 </html>
