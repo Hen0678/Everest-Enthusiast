@@ -165,10 +165,16 @@ main {
 /* Sign up page */
 #newsletter {
     list-style: circle;
-    padding: 20px 0;
-    margin-left: 20px;
+    padding: 5px 0;
+    margin-left: 40px;
 
 }
+
+/* pushes contact details to the left of the page */
+#signup {
+    margin-left: 10px;
+}
+
 
 #heading {
     margin-top: 2vh;
