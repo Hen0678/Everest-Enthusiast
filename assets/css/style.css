@@ -110,6 +110,17 @@ main {
     
 }
 
+#test {
+    background: url("../images/blog-header-sharing-everest-2.png") no-repeat center center/cover;  
+    width: 50%;
+    height: 200px;
+    position: relative; 
+    display: flex;
+    justify-content: center;
+
+   
+}
+
 #roof-text {
     background-color:rgb(240, 255, 255, .7);
     font-size: 130%;
@@ -135,7 +146,11 @@ main {
     margin-top: 2vh;
 }
 
+#interesting-facts {
+    margin-top: 2vh;
+}
 
+ 
 /* Footer this has been taken from Love Running as a template but background color amended*/
 #social-media {
     text-align: center;
