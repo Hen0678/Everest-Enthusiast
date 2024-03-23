@@ -120,11 +120,17 @@ main {
 
 }
 
+#allure {
+    text-align: left;
+    margin-left: 10px;
+}
+
 #img1 {
     background: url("../images/blog-header-sharing-everest-2.png") no-repeat center center/cover; 
     width: 100%;
     height: 100px;
     padding: 20px 0;
+        
 }
 
 #img2 {
