@@ -29,6 +29,8 @@ header {
     position: fixed;
     z-index: 99;
     width: 100%;
+    max-width: 1500px;
+    min-width: 1500px;
     box-shadow: 0 2px 2px #3a3a3a;
     display: flex;
     justify-content: space-between;
