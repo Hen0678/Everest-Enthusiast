@@ -241,6 +241,15 @@ main {
             display: none;
         }
 
+        label {
+            margin-top: 15px;
+            margin-bottom: 5px;
+        }
+
+        input, label {
+            display: block;
+        }
+
         /*may not need this 
         #logo {
             font-size: 280%;
