@@ -142,7 +142,7 @@ main {
 
 
 #img1 {
-    background: url("../images/blog-header-sharing-everest-2.png") no-repeat center center/cover;
+    background: url("../images/trekkers.webp") no-repeat center center/cover;
     width: 100%;
     height: 100px;
     padding: 20px 0;
@@ -150,7 +150,7 @@ main {
 }
 
 #img2 {
-    background: url("../images/junkoTabei.webp") no-repeat center center/cover;
+    background: url("../images/junkotabei.webp") no-repeat center center/cover;
     width: 100%;
     height: 100px;
     padding: 20px 0;
