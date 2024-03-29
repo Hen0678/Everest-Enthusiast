@@ -212,6 +212,10 @@ main {
     background:-u
 }
 
+#facts {
+    padding-top: 50px;
+}
+
 /*#heading {
     margin-top: 2vh;
 }
@@ -219,6 +223,7 @@ main {
 /*#interesting-facts { 
     margin-top: auto;
 }
+
 
 
 /* Footer this has been taken from Love Running as a template but background color amended*/
