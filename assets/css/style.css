@@ -59,6 +59,7 @@ h2 {
     color: black;
     text-align: center;
     margin-top: 10px;
+    
 
 }
 
@@ -262,6 +263,11 @@ main {
 
     }
 
+    button {
+        margin-top: 20px;
+        
+    }
+    
     /*may not need this 
         #logo {
             font-size: 280%;
