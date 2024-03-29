@@ -19,7 +19,7 @@ This features links to the three pages of the site, namely:
 The navigation bar is responsive, so as the screen size gets smaller the links change to a burger dropdown icon. The format and layout is the same across all three pages which creates a consistent look and feel for the user.
 
 #### Full screen
-![Screenshot](image-1.png)
+![Screenshot](assets/media/image-1.png)
 
 #### Small sceen
 ![alt text](image-2.png)
