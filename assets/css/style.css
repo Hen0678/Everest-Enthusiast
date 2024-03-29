@@ -143,7 +143,7 @@ main {
 }
 
 
-#img1 {
+.img {
     /*background: url("../images/trekkers.webp") no-repeat center center/cover; */
     /*margin-top: 10px;
     width: 50%;
@@ -257,8 +257,8 @@ main {
 
     }
 
-    input,label {
-       display: block;
+    input, label {
+        display: block;
 
     }
 
@@ -270,14 +270,14 @@ main {
         }
         */
 
-    #img1 {
-        /*background: url("../images/trekkers.webp") no-repeat center center/cover; */
-        /*width: 50%; */
-       /* height: 200px; */
+    /*.img {
+        background: url("../images/trekkers.webp") no-repeat center center/cover; 
+        width: 50%; 
+        height: 200px; 
         padding: 10px, 0px;
         max-width: 50%;
         vertical-align: middle;
-    }
+    } */
 
     /*#img2 {
         background: url("../images/junkotabei.webp") no-repeat center center/cover; 
