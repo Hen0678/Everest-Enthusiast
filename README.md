@@ -5,7 +5,7 @@ Everest Enthusiast is a website for those fascinated with the highest mountain o
 
 As the website grows new content will be added, including more interesting facts, high quality images and a detailed timeline of key events. There will also be video content added which will capture iconic areas of the mountain, such as the various base camps, the Hilary step and the summit itself.
 
-![alt text](image.png)
+![alt text](assets/media/overview.png)
 
 ## Features
 
@@ -19,10 +19,10 @@ This features links to the three pages of the site, namely:
 The navigation bar is responsive, so as the screen size gets smaller the links change to a burger dropdown icon. The format and layout is the same across all three pages which creates a consistent look and feel for the user.
 
 #### Full screen
-![Screenshot](assets/media/image-1.png)
+![Screenshot](assets/media/nav-bar-max-1.png)
 
 #### Small sceen
-![alt text](image-2.png)
+![alt text](assets/media/nav-bar-min.png)
 
 ### Home
 
