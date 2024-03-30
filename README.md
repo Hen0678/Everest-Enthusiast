@@ -9,7 +9,7 @@ As the website grows new content will be added, including more interesting facts
 
 ## Features
 
-### Navigation bar
+### Header and navigation bar
 
 This features links to the three pages of the site, namely:
 1. Home
@@ -18,6 +18,10 @@ This features links to the three pages of the site, namely:
 
 The navigation bar is responsive, so as the screen size gets smaller the links change to a burger dropdown icon. The format and layout is the same across all three pages which creates a consistent look and feel for the user.
 
+The colour used for the navigation is "whitesmoke" which is fitting with the image of Mount Everest which has swirling white cloud around the peak.
+
+The same header is used on each page of the website.
+
 #### Full screen
 ![nav-bar-max](assets/media/nav-bar-max.png)
 
@@ -25,19 +29,21 @@ The navigation bar is responsive, so as the screen size gets smaller the links c
 ![nav-bar-min](assets/media/nav-bar-min.png)
 
 ### Home page
+#### Top section
 The home page has an awe inspiring image of the top of Mount Everest with the cloud swirling around the peak. The image is overlaid with text proclaiming the top of the mountain as the roof of the world.
 
 ![Everest-peak](assets/media/image-of-everest.png)
+
+#### Lower section
 
 The bottom half of the page has a title of "The Allure of Everest". There is then a brief overview to draw the viewer in. There are also links to the Interesting Facts and Sign Up pages. 
 
 ![home-page-text](assets/media/allure-image.png)
 
+### Footer
 
+The footer has the same colour as the header. There are also links to various social media websites which open on new tabs. The same footer is used on each page of the website.
 
-
-
-### Footer placeholder
 Social media links 
 ### Image placeholder
 ### Contact form placeholder
