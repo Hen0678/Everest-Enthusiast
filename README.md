@@ -24,7 +24,15 @@ The navigation bar is responsive, so as the screen size gets smaller the links c
 #### Small sceen
 ![nav-bar-min](assets/media/nav-bar-min.png)
 
-### Home
+### Home page
+The home page has an awe inspiring image of the top of Mount Everest with the cloud swirling around the peak. The image is overlaid with text proclaiming the top of the mountain as the roof of the world.
+
+![Everest-peak](assets/media/image-of-everest.png)
+
+The bottom half of the page has a title of "The Allure of Everest". There is then a brief overview to draw the viewer in. There are also links to the Interesting Facts and Sign Up pages. 
+
+![home-page-text](assets/media/allure-image.png)
+
 
 
 
