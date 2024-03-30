@@ -68,6 +68,8 @@ The list of additional features to be added at a later date include:
 * A timeline of key events at Mount Everest
 * Kit list required for trekking to Base Camp or climging the mountain
 
+## Testing
+
 ### Testing placeholder
 Steps taken to manually test
 *Identifying bugs
@@ -75,7 +77,15 @@ When running HTML validation checks on the subscribe page two error messages app
 *Bugs resolved
 *Fixed issue (link to image)
 *Image after
+Responsive design
+HTML and CSS validators
 
+## Deployment placeholder
+Step by step process for deployment 
+
+## Credit placeholder
+Acknowledgement of resources used
+Link to resources
 Code Institute walkthroughs
 Slack support 
 Light house
@@ -83,19 +93,6 @@ live testing
 Web browser testing
 Different screen testing
 
-Responsive design
-HTML and CSS validators
-
-
-### Deployment placeholder
-Step by step process for deployment 
-
-### Credit placeholder
-Acknowledgement of resources used
-Link to resources
-
-### Future features placeholder
-Images, video, kit page etc
 
 
 
