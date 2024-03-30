@@ -44,7 +44,8 @@ The bottom half of the page has a title of "The Allure of Everest". There is the
 
 The footer has the same colour as the header. There are also links to various social media websites which open on new tabs. The same footer is used on each page of the website.
 
-Social media links 
+
+
 ### Image placeholder
 ### Contact form placeholder
 ### Testing placeholder
