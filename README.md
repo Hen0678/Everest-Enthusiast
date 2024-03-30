@@ -1,9 +1,9 @@
 # Everest Enthusiast
 ## Overview
 
-Everest Enthusiast is a website for those fascinated with the highest mountain on earth - Mount Everest. For decades this mountain nestled in the Himalayas in the remote country of Nepal has caputured the imagination of mankind. Even today, with the advent of modern day travel the mountain still holds an air of mystery. 
+Everest Enthusiast is a website for those fascinated with the highest mountain on earth - Mount Everest and who want to learn more. For decades this mountain nestled in the Himalayas in the remote country of Nepal has caputured the imagination of mankind. Even today, with the advent of modern day travel the mountain still holds an air of mystery. 
 
-As the website grows new content will be added, including more interesting facts, high quality images and a detailed timeline of key events. There will also be video content added which will capture iconic areas of the mountain, such as the various base camps, the Hilary step and the summit itself.
+As the website grows new content will be added, including more interesting facts, high quality images and a detailed timeline of key events. There will also be video content added which will capture iconic areas of the mountain, such as the various base camps, the Hilary step and the summit itself. For those who aspire to one day climb the mountain, or simply basecamp there will be a section dedicated to the type of kit required. 
 
 ![overview-page](assets/media/responsive-overview.png)
 
@@ -32,6 +32,19 @@ The navigation bar is responsive, so as the screen size gets smaller the links c
 ### Footer placeholder
 ### Image placeholder
 ### Contact form placeholder
+### Testing placeholder
+Steps taken to manually test
+Identifying bugs
+Responsive design
+
+### Deployment placeholder
+Step by step process for deployment 
+
+### Credit placeholder
+Acknowledgement of resources used
+
+### Future features placeholder
+
 
 
 
