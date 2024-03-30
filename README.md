@@ -5,7 +5,7 @@ Everest Enthusiast is a website for those fascinated with the highest mountain o
 
 As the website grows new content will be added, including more interesting facts, high quality images and a detailed timeline of key events. There will also be video content added which will capture iconic areas of the mountain, such as the various base camps, the Hilary step and the summit itself.
 
-![overview-page](assets/media/overview.png)
+![overview-page](assets/media/responsive-overview.png)
 
 ## Features
 
