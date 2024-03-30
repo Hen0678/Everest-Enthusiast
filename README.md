@@ -35,8 +35,18 @@ Social media links
 ### Contact form placeholder
 ### Testing placeholder
 Steps taken to manually test
-Identifying bugs
-When running HTML validation checks on the subscribe page 
+*Identifying bugs
+When running HTML validation checks on the subscribe page two error messages appeared (link to image)
+*Bugs resolved
+*Fixed issue (link to image)
+*Image after
+
+Code Institute walkthroughs
+Slack support 
+Light house
+live testing 
+Web browser testing
+Different screen testing
 
 Responsive design
 HTML and CSS validators
@@ -47,8 +57,10 @@ Step by step process for deployment
 
 ### Credit placeholder
 Acknowledgement of resources used
+Link to resources
 
 ### Future features placeholder
+Images, video, kit page etc
 
 
 
