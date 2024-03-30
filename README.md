@@ -30,12 +30,17 @@ The navigation bar is responsive, so as the screen size gets smaller the links c
 
 
 ### Footer placeholder
+Social media links 
 ### Image placeholder
 ### Contact form placeholder
 ### Testing placeholder
 Steps taken to manually test
 Identifying bugs
+When running HTML validation checks on the subscribe page 
+
 Responsive design
+HTML and CSS validators
+
 
 ### Deployment placeholder
 Step by step process for deployment 
