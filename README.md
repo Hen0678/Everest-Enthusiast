@@ -105,10 +105,17 @@ assets/media/chrome-test.png
 ### Code validation
 |Page tested|Screenshot of errors|Solution applied|Screenshot of clear Validator output|
 |:----|:----|:----|:----|
-|Text1|Text2|Text3|Text4|
-|Text1|Text2|Text3|Text4|
-|Text1|Text2|Text3|Text4|
-|Text1|Text2|Text3|Text4|
+|Home-HTML|N/A|N/A|![homepage-html-test](assets/media/homepage-html-test.png)|
+|Interesting-Facts-HTML|N/A|N/A|![int-facts-html-test](assets/media/int-facts-html-test.png)|
+|Sign-Up-HTML|![sign-up-test-html](assets/media/sign-up-error-message.png)|![sign-up-test-html](assets/media/sign-up-error-fixed.png)|![sign-up-test-html](assets/media/sign-up-error-validate.png)|
+|CSS|Text2|Text3|Text4|
+
+
+#### Interesting Facts-HTML output
+
+#### Sign Up-HTML output
+
+#### CSS output
 
 ### Bugs
 |Bug|Description|Solution applied|Result|
