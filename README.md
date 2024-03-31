@@ -70,7 +70,56 @@ The list of additional features to be added at a later date include:
 
 ## Testing
 
-### Testing placeholder
+### Features
+|Features|Test case|Outcome|
+|:----|:----|:----|
+|Text1|Text2|Text3|
+|Text1|Text2|Text3|
+|Text1|Text2|Text3|
+|Text1|Text2|Text3|
+
+### Browser Compatability
+|Browser tested|Intended appearance|Intended responsiveness|
+|:----|:----|:----|
+|Text1|Text2|Text3|
+|Text1|Text2|Text3|
+|Text1|Text2|Text3|
+|Text1|Text2|Text3|
+
+### Responsiveness Testing
+|Device tested|Site responsive <699px|Site responsive >=700px|Renders as expected|
+|:----|:----|:----|:----|
+|Text1|Text2|Text3|Text4|
+|Text1|Text2|Text3|Text4|
+|Text1|Text2|Text3|Text4|
+|Text1|Text2|Text3|Text4|
+
+### Code validation
+|Page tested|Screenshot of errors|Solution applied|Screenshot of clear Validator output|
+|:----|:----|:----|:----|
+|Text1|Text2|Text3|Text4|
+|Text1|Text2|Text3|Text4|
+|Text1|Text2|Text3|Text4|
+|Text1|Text2|Text3|Text4|
+
+### Bugs
+|Bug|Description|Solution applied|Result|
+|:----|:----|:----|:----|
+|Text1|Text2|Text3|Text4|
+|Text1|Text2|Text3|Text4|
+|Text1|Text2|Text3|Text4|
+|Text1|Text2|Text3|Text4|
+
+### Lighthouse Testing
+|View tested|Outcome of the audit|Solution applied|Screenshot of clear Validator output|
+|:----|:----|:----|:----|
+|Text1|Text2|Text3|Text4|
+|Text1|Text2|Text3|Text4|
+|Text1|Text2|Text3|Text4|
+|Text1|Text2|Text3|Text4|
+
+### Accessibility Testing
+
 Steps taken to manually test
 *Identifying bugs
 When running HTML validation checks on the subscribe page two error messages appeared (link to image)
