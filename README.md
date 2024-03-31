@@ -96,11 +96,11 @@ The list of additional features to be added at a later date include:
 ### Responsiveness Testing
 |Device Tested|Site Responsive <699px|Site Responsive >=700px|Test Outcome|
 |:----|:----|:----|:----|
-|I-phone 13|Yes|N/A|Yes|
-|Galaxy Fold|Yes|N/A|Yes|
-|I-Pad Mini|N/A|Yes|Yes|
-|Laptop|N/A|Yes|Yes|
-|Desktop|N/A|Yes|Yes|
+|I-phone 13|Yes|N/A|Pass|
+|Galaxy Fold|Yes|N/A|Pass|
+|I-Pad Mini|N/A|Yes|Pass|
+|Laptop|N/A|Yes|Pass|
+|Desktop|N/A|Yes|Pass|
 
 ### Code validation
 |Page Tested|Screenshot of Errors|Solution Applied|Screenshot of Clear Validator Output|Test Outcome|
@@ -130,6 +130,9 @@ The list of additional features to be added at a later date include:
 |4k 2560px|![4k-lighthouse-test](assets/media/4k-lighthouse-test.png)|N/A|![4k-lighthouse-test](assets/media/4k-lighthouse-test.png)|
 
 ### Accessibility Testing
+|Accessibility Test|Outcome of Test|
+|:----|:----|
+|![Accessibility-test](assets/media/accessibility-test.png)|Pass|
 
 ## Deployment placeholder
 Step by step process for deployment 
@@ -139,6 +142,7 @@ Acknowledgement of resources used
 Link to resources
 Code Institute walkthroughs
 Slack support 
+WebAIM contrast checker
 
 
 
