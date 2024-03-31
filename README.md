@@ -71,12 +71,13 @@ The list of additional features to be added at a later date include:
 ## Testing
 
 ### Features
-|Features|Test case|Outcome|
+|Features|Test conducted|Outcome|
 |:----|:----|:----|
-|Text1|Text2|Text3|
-|Text1|Text2|Text3|
-|Text1|Text2|Text3|
-|Text1|Text2|Text3|
+|Logo|Check to see if takes user back to homepage|Working as expected|
+|Navbar-Home|Click on the Home link on each page|User taken to Homepage|
+|Navbar-Interesting Facts|Click on the Interesting Facts link on each page|User taken to Interesting Facts page|
+|Navbar-Sign Up|Click on the Sign Up link on each page|User taken to Sign Up page|
+|Social Media links|Click each link on each page to make sure user is taken to correct site on a new tab|Working as expected|
 
 ### Browser Compatability
 |Browser tested|Intended appearance|Intended responsiveness|
