@@ -82,10 +82,17 @@ The list of additional features to be added at a later date include:
 ### Browser Compatability
 |Browser tested|Intended appearance|Intended responsiveness|
 |:----|:----|:----|
-|Google Chrome|Text2|Text3|
-|Edge|Text2|Text3|
-|Firefox|Text2|Text3|
-|Text1|Text2|Text3|
+|Google Chrome|Good|Good|
+|Edge|Good|Good|
+|Firefox|Good|Good|
+
+#### Chrome test output
+assets/media/chrome-test.png
+![chrome-test](assets/media/chrome-test.png)
+#### Edge test output
+![edge-test](assets/media/edge-test.png)
+#### Safari test output
+![edge-test](assets/media/safari-test.png)
 
 ### Responsiveness Testing
 |Device tested|Site responsive <699px|Site responsive >=700px|Renders as expected|
