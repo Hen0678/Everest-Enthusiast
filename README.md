@@ -97,10 +97,11 @@ assets/media/chrome-test.png
 ### Responsiveness Testing
 |Device tested|Site responsive <699px|Site responsive >=700px|Renders as expected|
 |:----|:----|:----|:----|
-|Text1|Text2|Text3|Text4|
-|Text1|Text2|Text3|Text4|
-|Text1|Text2|Text3|Text4|
-|Text1|Text2|Text3|Text4|
+|I-phone 13|Yes|N/A|Yes|
+|Galaxy Fold|Yes|N/A|Yes|
+|I-Pad Mini|N/A|Yes|Yes|
+|Laptop|N/A|Yes|Yes|
+|Desktop|N/A|Yes|Yes|
 
 ### Code validation
 |Page tested|Screenshot of errors|Solution applied|Screenshot of clear Validator output|
@@ -110,13 +111,6 @@ assets/media/chrome-test.png
 |Sign-Up-HTML|![sign-up-test-html](assets/media/sign-up-error-message.png)|![sign-up-test-html](assets/media/sign-up-error-fixed.png)|![sign-up-test-html](assets/media/sign-up-error-validate.png)|
 |CSS|![css-test](assets/media/css-error.png)|![css-fix](assets/media/css-fix.png)|![css-validate](assets/media/css-validate.png)|
 
-
-#### Interesting Facts-HTML output
-
-#### Sign Up-HTML output
-
-#### CSS output
-
 ### Bugs
 |Bug|Description|Solution applied|Result|
 |:----|:----|:----|:----|
@@ -124,6 +118,9 @@ assets/media/chrome-test.png
 |Text1|Text2|Text3|Text4|
 |Text1|Text2|Text3|Text4|
 |Text1|Text2|Text3|Text4|
+
+*Identifying bugs
+*Bugs resolved
 
 ### Lighthouse Testing
 |View tested|Outcome of the audit|Solution applied|Screenshot of clear Validator output|
@@ -135,15 +132,6 @@ assets/media/chrome-test.png
 
 ### Accessibility Testing
 
-Steps taken to manually test
-*Identifying bugs
-When running HTML validation checks on the subscribe page two error messages appeared (link to image)
-*Bugs resolved
-*Fixed issue (link to image)
-*Image after
-Responsive design
-HTML and CSS validators
-
 ## Deployment placeholder
 Step by step process for deployment 
 
@@ -152,10 +140,7 @@ Acknowledgement of resources used
 Link to resources
 Code Institute walkthroughs
 Slack support 
-Light house
-live testing 
-Web browser testing
-Different screen testing
+
 
 
 
