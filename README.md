@@ -82,9 +82,9 @@ The list of additional features to be added at a later date include:
 ### Browser Compatability
 |Browser tested|Intended appearance|Intended responsiveness|
 |:----|:----|:----|
-|Text1|Text2|Text3|
-|Text1|Text2|Text3|
-|Text1|Text2|Text3|
+|Google Chrome|Text2|Text3|
+|Edge|Text2|Text3|
+|Firefox|Text2|Text3|
 |Text1|Text2|Text3|
 
 ### Responsiveness Testing
