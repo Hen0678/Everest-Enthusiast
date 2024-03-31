@@ -108,7 +108,7 @@ assets/media/chrome-test.png
 |Home-HTML|N/A|N/A|![homepage-html-test](assets/media/homepage-html-test.png)|
 |Interesting-Facts-HTML|N/A|N/A|![int-facts-html-test](assets/media/int-facts-html-test.png)|
 |Sign-Up-HTML|![sign-up-test-html](assets/media/sign-up-error-message.png)|![sign-up-test-html](assets/media/sign-up-error-fixed.png)|![sign-up-test-html](assets/media/sign-up-error-validate.png)|
-|CSS|Text2|Text3|Text4|
+|CSS|![css-test](assets/media/css-error.png)|![css-fix](assets/media/css-fix.png)|![css-validate](assets/media/css-validate.png)|
 
 
 #### Interesting Facts-HTML output
