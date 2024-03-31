@@ -71,23 +71,22 @@ The list of additional features to be added at a later date include:
 ## Testing
 
 ### Features
-|Features|Test conducted|Outcome|
-|:----|:----|:----|
-|Logo|Check to see if takes user back to homepage|Working as expected|
-|Navbar-Home|Click on the Home link on each page|User taken to Homepage|
-|Navbar-Interesting Facts|Click on the Interesting Facts link on each page|User taken to Interesting Facts page|
-|Navbar-Sign Up|Click on the Sign Up link on each page|User taken to Sign Up page|
-|Social Media links|Click each link on each page to make sure user is taken to correct site on a new tab|Working as expected|
+|Features|Test Conducted|Expected Outcome|Test Outcome|
+|:----|:----|:----|:----|
+|Logo|Check to see if takes user back to homepage|User taken to homepage|Pass|
+|Navbar-Home|Click on the Home link on each page|User taken to Homepage|Pass|
+|Navbar-Interesting Facts|Click on the Interesting Facts link on each page|User taken to Interesting Facts page|Pass|
+|Navbar-Sign Up|Click on the Sign Up link on each page|User taken to Sign Up page|Pass|
+|Social Media links|Click each link on each page to make sure user is taken to correct site on a new tab|User taken to site in new tab|Pass|
 
 ### Browser Compatability
-|Browser tested|Intended appearance|Intended responsiveness|
+|Browser Tested|Intended Appearance|Test Outcome|
 |:----|:----|:----|
-|Google Chrome|Good|Good|
-|Edge|Good|Good|
-|Firefox|Good|Good|
+|Google Chrome|Good|Pass|
+|Edge|Good|Pass|
+|Firefox|Good|Pass|
 
 #### Chrome test output
-assets/media/chrome-test.png
 ![chrome-test](assets/media/chrome-test.png)
 #### Edge test output
 ![edge-test](assets/media/edge-test.png)
@@ -95,7 +94,7 @@ assets/media/chrome-test.png
 ![edge-test](assets/media/safari-test.png)
 
 ### Responsiveness Testing
-|Device tested|Site responsive <699px|Site responsive >=700px|Renders as expected|
+|Device Tested|Site Responsive <699px|Site Responsive >=700px|Test Outcome|
 |:----|:----|:----|:----|
 |I-phone 13|Yes|N/A|Yes|
 |Galaxy Fold|Yes|N/A|Yes|
@@ -104,12 +103,12 @@ assets/media/chrome-test.png
 |Desktop|N/A|Yes|Yes|
 
 ### Code validation
-|Page tested|Screenshot of errors|Solution applied|Screenshot of clear Validator output|
-|:----|:----|:----|:----|
-|Home-HTML|N/A|N/A|![homepage-html-test](assets/media/homepage-html-test.png)|
-|Interesting-Facts-HTML|N/A|N/A|![int-facts-html-test](assets/media/int-facts-html-test.png)|
-|Sign-Up-HTML|![sign-up-test-html](assets/media/sign-up-error-message.png)|![sign-up-test-html](assets/media/sign-up-error-fixed.png)|![sign-up-test-html](assets/media/sign-up-error-validate.png)|
-|CSS|![css-test](assets/media/css-error.png)|![css-fix](assets/media/css-fix.png)|![css-validate](assets/media/css-validate.png)|
+|Page Tested|Screenshot of Errors|Solution Applied|Screenshot of Clear Validator Output|Test Outcome|
+|:----|:----|:----|:----|:----|
+|Home-HTML|N/A|N/A|![homepage-html-test](assets/media/homepage-html-test.png)|Pass|
+|Interesting-Facts-HTML|N/A|N/A|![int-facts-html-test](assets/media/int-facts-html-test.png)|Pass|
+|Sign-Up-HTML|![sign-up-test-html](assets/media/sign-up-error-message.png)|Removed id from section element and applied to div element ![sign-up-test-html](assets/media/sign-up-error-fixed.png)|![sign-up-test-html](assets/media/sign-up-error-validate.png)|Pass
+|CSS|![css-test](assets/media/css-error.png)|Removed comma between padding values ![css-fix](assets/media/css-fix.png)|![css-validate](assets/media/css-validate.png)|Pass|
 
 ### Bugs
 |Bug|Description|Solution applied|Result|
@@ -123,12 +122,12 @@ assets/media/chrome-test.png
 *Bugs resolved
 
 ### Lighthouse Testing
-|View tested|Outcome of the audit|Solution applied|Screenshot of clear Validator output|
+|View Tested|Outcome of the audit|Solution applied|Screenshot of clear Validator output|
 |:----|:----|:----|:----|
-|Text1|Text2|Text3|Text4|
-|Text1|Text2|Text3|Text4|
-|Text1|Text2|Text3|Text4|
-|Text1|Text2|Text3|Text4|
+|Samsung Fold|![Mobile-lighthouse-test](assets/media/mobile-lighthouse-test.png)|N/A|![Mobile-lighthouse-test](assets/media/mobile-lighthouse-test.png)|
+|Ipad Mini|![Ipad-lighthouse-test](assets/media/ipad-lighthouse-test.png)|N/A|![Ipad-lighthouse-test](assets/media/ipad-lighthouse-test.png)|
+|Laptop 1440px|![Ipad-lighthouse-test](assets/media/ipad-lighthouse-test.png)|N/A|![Laptop-lighthouse-test](assets/media/laptop-lighthouse-test.png)|
+|4k 2560px|![4k-lighthouse-test](assets/media/4k-lighthouse-test.png)|N/A|![4k-lighthouse-test](assets/media/4k-lighthouse-test.png)|
 
 ### Accessibility Testing
 
