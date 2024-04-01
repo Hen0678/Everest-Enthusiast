@@ -9,12 +9,9 @@ As the website grows new content will be added, including more interesting facts
 
 ![overview-page](assets/media/responsive-overview.png)
 <!-- TOC -->
-## Index - Table of Contents
-* User Experience
-* Features
-* Testing
-* Deployment
-* Credits
+
+
+
 <!-- /TOC -->
 
 ## User Experience (UX)  
@@ -145,13 +142,9 @@ The list of additional features to be added at a later date include:
 ### Bugs
 |Bug|Description|Solution applied|Result|
 |:----|:----|:----|:----|
-|Text1|Text2|Text3|Text4|
-|Text1|Text2|Text3|Text4|
-|Text1|Text2|Text3|Text4|
-|Text1|Text2|Text3|Text4|
-
-*Identifying bugs
-*Bugs resolved
+|CSS error in Sign Up Page|CSS validator did not like id in section heading|Moved ID to div section|Re-checked in validator and passed|
+|Gap between header and Hero image|There is an obvious gap between the page header and the Hero image on the Home page|Added padding-bottom to header|Gap has now been removed|
+|No alt description in images on Interesting Facts page|The image alt was not present|Images were set as background images in CSS. This has been amended to img elements within the HTML|alt message now appears if there is an error loading the image|
 
 ### Lighthouse Testing
 |View Tested|Outcome of the audit|Solution applied|Screenshot of clear Validator output|
