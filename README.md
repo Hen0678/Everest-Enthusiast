@@ -89,6 +89,19 @@ The list of additional features to be added at a later date include:
 * A timeline of key events at Mount Everest
 * Kit list required for trekking to Base Camp or climging the mountain
 
+## Technologies uses
+The following technologies were used for this site:
+* HTML5
+* CSS3
+* W3C validation for HTML and CSS 
+* Google Fonts was used to import the 'Montserrat' fonts into the style.css file.
+* Font Awesome was used to add Favicon icons.
+* GitPod was used for coding the site and version control.
+* GitHub as the respository for the projects code.
+* WebAIM contrast checker
+* Am I Responsive - for checking the look on different size devices
+* Lighthouse in Chrome dev tools
+
 ## Testing
 
 ### Features
@@ -202,7 +215,7 @@ Images have been accumulated form the following sites:
 
 ### Other acknowledgments
 * Brian Macharia for mentor support and advice
-* WebAIM contrast checker
+
 
 
 
