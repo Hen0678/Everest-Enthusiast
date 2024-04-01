@@ -9,8 +9,11 @@ As the website grows new content will be added, including more interesting facts
 
 ![overview-page](assets/media/responsive-overview.png)
 
-## Index
-
+## Index - Table of Contents
+1. [User Experience](##User Experience)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 ## User Experience (UX)
 
@@ -175,7 +178,7 @@ After creating the website in GitPod, the site was deployed to GitHub to host. T
 * Open a GitBash terminal and navigate to the directory where you want to locate the clone
 * On the command line, type "git clone" then paste in the copied url and press the Enter key to begin the clone process
 
-## Credit placeholder
+## Credit 
 ### Content
 The content has been accumulated from the following sites:
 * [Brittanica](https://www.britannica.com/question/What-are-other-names-for-Mount-Everest#:~:text=Its%20most%20common%20Tibetan%20name,Sir%20George%20Everest%20in%201865)
