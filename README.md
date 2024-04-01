@@ -176,11 +176,29 @@ After creating the website in GitPod, the site was deployed to GitHub to host. T
 * On the command line, type "git clone" then paste in the copied url and press the Enter key to begin the clone process
 
 ## Credit placeholder
-Acknowledgement of resources used
-Link to resources
-Code Institute walkthroughs
-Slack support 
-WebAIM contrast checker
+### Content
+The content has been accumulated from the following sites:
+* [Brittanica](https://www.britannica.com/question/What-are-other-names-for-Mount-Everest#:~:text=Its%20most%20common%20Tibetan%20name,Sir%20George%20Everest%20in%201865)
+* [Global](https://www.globaladventurechallenges.com/journal/mind-blowing-facts-about-mount-everest) 
+* [Google arts & culture](https://artsandculture.google.com/story/how-this-woman-became-the-first-to-summit-mount-everest/fQUh_Fty-kST3Q?hl=en)
+* [Everest Mountain - News from way high up](https://everestmountain.co.uk/30-everest-facts)
+
+### Code
+* Code Institute Love Running site
+* HTML & CSS by Jon Duckett
+* Slack support
+
+### Images
+Images have been accumulated form the following sites:
+* Mount Everest Hero image - [pexels.com](pexels.com)
+* Trekker image - [pixabay.com](https://pixabay.com/photos/mount-everest-mountains-trekking-6395759/)
+* Junko Tabei - [Wikipedia](https://en.wikipedia.org/wiki/File:Junko_Tabei.jpg)
+* Everest queues - purchased from [istockphoto.com](https://www.istockphoto.com/photo/mount-everest-summit-top-of-the-world-highest-mountain-gm1312670581-401408488)
+* Everest photo on Sign Up page - [pexels.com](pexels.com)
+
+### Other acknowledgments
+* Brian Macharia for mentor support and advice
+* WebAIM contrast checker
 
 
 
