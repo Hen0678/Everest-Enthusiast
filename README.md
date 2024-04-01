@@ -3,7 +3,7 @@
 [View the live project here](https://hen0678.github.io/Everest-Enthusiast/)
 
 ## Overview
-Everest Enthusiast is a website for those fascinated with the highest mountain on earth - Mount Everest and who want to learn more. For decades this mountain nestled in the Himalayas in the remote country of Nepal has caputured the imagination of mankind. Even today, with the advent of modern day travel the mountain still holds an air of mystery. 
+Everest Enthusiast is a website for those fascinated with the highest mountain on earth - Mount Everest and who want to learn more. For decades this mountain nestled in the Himalayas in the remote country of Nepal has captured the imagination of mankind. Even today, with the advent of modern day travel the mountain still holds an air of mystery. 
 
 As the website grows new content will be added, including more interesting facts, high quality images and a detailed timeline of key events. There will also be video content added which will capture iconic areas of the mountain, such as the various base camps, the Hilary step and the summit itself. For those who aspire to one day climb the mountain, or simply basecamp there will be a section dedicated to the type of kit required. 
 
@@ -19,13 +19,13 @@ As a First Time visitor, I want to:
 * I want to see high quality images.
 
 ### Returning Visitors
-As a returning visitor, I want to to:
-* Check the navigation bar to see what new pages have been created
+As a returning visitor, I want to:
+* Check the navigation bar to see what new pages have been created.
 * Check what new interesting facts have been added.
 * Check what new images have been added.
 
 ### Frequent User 
-* As a frequent user, I want to be able to Subsribe easily to the newsletter to I am the first to be made aware when new contect has been added.
+* As a frequent user, I want to be able to Subscribe easily to the newsletter to I am the first to be made aware when new content has been added.
 
 ## Features
 
@@ -35,7 +35,7 @@ This features links to the three pages of the site, namely:
 2. Interesting Facts
 3. Sign Up 
 
-The navigation bar is responsive, so as the screen size gets smaller the links change to a burger dropdown icon. The format and layout is the same across all three pages which creates a consistent look and feel for the user.
+The navigation bar is responsive, so as the screen size gets smaller the links change to a burger dropdown icon. The format and layout are the same across all three pages which creates a consistent look and feel for the user.
 
 The colour used for the navigation is "whitesmoke" which is fitting with the image of Mount Everest which has swirling white cloud around the peak.
 
@@ -44,12 +44,12 @@ The same header is used on each page of the website.
 #### Full screen
 ![nav-bar-max](assets/media/nav-bar-max.png)
 
-#### Small sceen
+#### Small screen
 ![nav-bar-min](assets/media/nav-bar-min.png)
 
 ### Home page
 #### Top section
-The home page has an awe inspiring image of the top of Mount Everest with the cloud swirling around the peak. The image is overlaid with text proclaiming the top of the mountain as the roof of the world.
+The home page has an awe-inspiring image of the top of Mount Everest with the cloud swirling around the peak. The image is overlaid with text proclaiming the top of the mountain as the roof of the world.
 
 ![Everest-peak](assets/media/image-of-everest.png)
 
@@ -65,14 +65,14 @@ The footer has the same colour as the header. There are also links to various so
 ![footer](assets/media/footer.png)
 
 ### Interesting Facts page
-On this page there are a number of interesting facts about Mount Everest, ranging from the various names the mountain as to the modern day queues of climbers looking to summit the peak. The facts will hopefully include things that alot of people will not be aware of.
+On this page there are a number of interesting facts about Mount Everest, ranging from the various names the mountain as to the modern day queues of climbers looking to summit the peak. The facts will hopefully include things that a lot of people will not be aware of.
 
 Alongside some interesting facts there are some high quality images. 
 
 ![interesting-facts](assets/media/busy-mountain.png)
 
 ### Sign Up page
-For those interested to find out more there is an option to sign up to a mailing list so they can be the first to find out when new content gets added. There is also some bullet points explaining the kind of additional content that will be added in the future. All fields require completing and the Email address field will look for an @ to be included.
+For those interested to find out more there is an option to sign up to a mailing list so they can be the first to find out when new content gets added. There are also some bullet points explaining the kind of additional content that will be added in the future. All fields require completing and the Email address field will look for an @ to be included.
 
 ![sign-up-page](assets/media/sign-up-page.png)
 
@@ -84,12 +84,12 @@ At the bottom of the page is another high quality evocative image of Mount Evere
 ### Additional features to include 
 The list of additional features to be added at a later date include:
 
-* More interesting facts
-* A gallery page 
-* A timeline of key events at Mount Everest
-* Kit list required for trekking to Base Camp or climging the mountain
+* More interesting facts.
+* A gallery page. 
+* A timeline of key events at Mount Everest.
+* Kit list required for trekking to Base Camp or climbing the mountain.
 
-## Technologies uses
+## Technologies used
 The following technologies were used for this site:
 * HTML5
 * CSS3
@@ -97,7 +97,7 @@ The following technologies were used for this site:
 * Google Fonts was used to import the 'Montserrat' fonts into the style.css file.
 * Font Awesome was used to add Favicon icons.
 * GitPod was used for coding the site and version control.
-* GitHub as the respository for the projects code.
+* GitHub as the repository for the projects code.
 * WebAIM contrast checker
 * Am I Responsive - for checking the look on different size devices
 * Lighthouse in Chrome dev tools
@@ -121,7 +121,7 @@ The following technologies were used for this site:
 #### Subscribe Form test
 ![subscribe-form-test](assets/media/subscribe-form-test.png)
 
-### Browser Compatability
+### Browser Compatibility
 |Browser Tested|Intended Appearance|Test Outcome|
 |:----|:----|:----|
 |Google Chrome|Good|Pass|
@@ -177,7 +177,7 @@ The following technologies were used for this site:
 
 ## Deployment 
 ### Deploying the site
-After creating the website in GitPod, the site was deployed to GitHub to host. To deploy the project use the following steps:
+After creating the website in GitPod, the site was deployed to GitHub to host. To deploy the project, use the following steps:
 * In the GitHub repository, navigate to the Settings tab at the top of the page.
 * Select Pages on the left hand side of the page
 * Under "Build and deployment" there is a Source dropdown. Select Deploy from a branch and then Save.
@@ -186,11 +186,11 @@ After creating the website in GitPod, the site was deployed to GitHub to host. T
 
 ### Cloning the site
 
-* Go to https://github.com/Hen0678/Everest-Enthusiast 
-* Click the Code button 
-* Select Copy URL to Clipboard
-* Open a GitBash terminal and navigate to the directory where you want to locate the clone
-* On the command line, type "git clone" then paste in the copied url and press the Enter key to begin the clone process
+* Go to https://github.com/Hen0678/Everest-Enthusiast. 
+* Click the Code button. 
+* Select Copy URL to Clipboard.
+* Open a GitBash terminal and navigate to the directory where you want to locate the clone.
+* On the command line, type "git clone" then paste in the copied URL and press the Enter key to begin the clone process.
 
 ## Credits
 ### Content
@@ -201,9 +201,9 @@ The content has been accumulated from the following sites:
 * [Everest Mountain - News from way high up](https://everestmountain.co.uk/30-everest-facts)
 
 ### Code
-* Code Institute Love Running site
-* HTML & CSS by Jon Duckett
-* Slack support
+* Code Institute Love Running site.
+* HTML & CSS by Jon Duckett.
+* Slack support.
 
 ### Images
 Images have been accumulated form the following sites:
@@ -214,7 +214,7 @@ Images have been accumulated form the following sites:
 * Everest photo on Sign Up page - [unsplash.com](https://unsplash.com/s/photos/mount-everest)
 
 ### Other acknowledgments
-* Brian Macharia for mentor support and advice
+* Brian Macharia for mentor support and advice.
 
 
 
