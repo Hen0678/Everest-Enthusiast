@@ -193,6 +193,12 @@ main {
     max-width: 700px;
 }
 
+#signup-form > * {
+    display: block;
+    padding: 5px 10px;
+    font-size: 1rem;
+}
+
 #heading {
     background: -u
 }
@@ -248,11 +254,11 @@ main {
         margin-bottom: 5px;
     }
 
-    input,
+    /*input,
     label {
         display: block;
     }
-
+ */
     button {
         margin-top: 20px;
     }
