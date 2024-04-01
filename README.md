@@ -190,11 +190,11 @@ The content has been accumulated from the following sites:
 
 ### Images
 Images have been accumulated form the following sites:
-* Mount Everest Hero image - [pexels.com](pexels.com)
+* Mount Everest Hero image - [pexels.com](https://www.pexels.com/photo/snow-capped-mountain-peak-6642124/)
 * Trekker image - [pixabay.com](https://pixabay.com/photos/mount-everest-mountains-trekking-6395759/)
 * Junko Tabei - [Wikipedia](https://en.wikipedia.org/wiki/File:Junko_Tabei.jpg)
 * Everest queues - purchased from [istockphoto.com](https://www.istockphoto.com/photo/mount-everest-summit-top-of-the-world-highest-mountain-gm1312670581-401408488)
-* Everest photo on Sign Up page - [pexels.com](pexels.com)
+* Everest photo on Sign Up page - [unsplash.com](https://unsplash.com/s/photos/mount-everest)
 
 ### Other acknowledgments
 * Brian Macharia for mentor support and advice
