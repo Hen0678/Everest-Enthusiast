@@ -8,13 +8,14 @@ Everest Enthusiast is a website for those fascinated with the highest mountain o
 As the website grows new content will be added, including more interesting facts, high quality images and a detailed timeline of key events. There will also be video content added which will capture iconic areas of the mountain, such as the various base camps, the Hilary step and the summit itself. For those who aspire to one day climb the mountain, or simply basecamp there will be a section dedicated to the type of kit required. 
 
 ![overview-page](assets/media/responsive-overview.png)
-
+<!-- TOC -->
 ## Index - Table of Contents
 * User Experience
 * Features
-* Testimg
+* Testing
 * Deployment
 * Credits
+<!-- /TOC -->
 
 ## User Experience (UX)  
 
@@ -111,11 +112,14 @@ The list of additional features to be added at a later date include:
 |Browser Tested|Intended Appearance|Test Outcome|
 |:----|:----|:----|
 |Google Chrome|Good|Pass|
+|Firefox|Good|Pass|
 |Edge|Good|Pass|
 |Firefox|Good|Pass|
 
 #### Chrome test output
 ![chrome-test](assets/media/chrome-test.png)
+#### Firefox test output
+![firefox-test](assets/media/firefox-test.png)
 #### Edge test output
 ![edge-test](assets/media/edge-test.png)
 #### Safari test output
