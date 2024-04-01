@@ -135,7 +135,21 @@ The list of additional features to be added at a later date include:
 |![Accessibility-test](assets/media/accessibility-test.png)|Pass|
 
 ## Deployment placeholder
-Step by step process for deployment 
+### Deploying the site
+After creating the website in GitPod, the site was deployed to GitHub to host. To deploy the project use the following steps:
+* In the GitHub repository, navigate to the Settings tab at the top of the page.
+* Select Pages on the left hand side of the page
+* Under "Build and deployment" there is a Source dropdown. Select Deploy from a branch and then Save.
+* Once the main branch has been selected and saved, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+* The live link to the site can be found here - https://hen0678.github.io/Everest-Enthusiast/
+
+### Cloning the site
+
+* Go to https://github.com/Hen0678/Everest-Enthusiast 
+* Click the Code button 
+* Select Copy URL to Clipboard
+* Open a GitBash terminal and navigate to the directory where you want to locate the clone
+* On the command line, type "git clone" then paste in the copied url and press the Enter key to begin the clone process
 
 ## Credit placeholder
 Acknowledgement of resources used
