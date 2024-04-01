@@ -10,12 +10,13 @@ As the website grows new content will be added, including more interesting facts
 ![overview-page](assets/media/responsive-overview.png)
 
 ## Index - Table of Contents
-1. [User Experience](##User Experience)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+* User Experience
+* Features
+* Testimg
+* Deployment
+* Credits
 
-## User Experience (UX)
+## User Experience (UX)  
 
 ### First Time Visitors
 As a First Time visitor, I want to:
@@ -87,7 +88,7 @@ At the bottom of the page is another high quality evocative image of Mount Evere
 
 ![evocative-everest](assets/media/evocative-everest.png)
 
-## Additional features to include 
+### Additional features to include 
 The list of additional features to be added at a later date include:
 
 * More interesting facts
@@ -161,7 +162,7 @@ The list of additional features to be added at a later date include:
 |:----|:----|
 |![Accessibility-test](assets/media/accessibility-test.png)|Pass|
 
-## Deployment placeholder
+## Deployment 
 ### Deploying the site
 After creating the website in GitPod, the site was deployed to GitHub to host. To deploy the project use the following steps:
 * In the GitHub repository, navigate to the Settings tab at the top of the page.
@@ -178,7 +179,7 @@ After creating the website in GitPod, the site was deployed to GitHub to host. T
 * Open a GitBash terminal and navigate to the directory where you want to locate the clone
 * On the command line, type "git clone" then paste in the copied url and press the Enter key to begin the clone process
 
-## Credit 
+## Credits
 ### Content
 The content has been accumulated from the following sites:
 * [Brittanica](https://www.britannica.com/question/What-are-other-names-for-Mount-Everest#:~:text=Its%20most%20common%20Tibetan%20name,Sir%20George%20Everest%20in%201865)
