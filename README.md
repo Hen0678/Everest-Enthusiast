@@ -1,10 +1,34 @@
 # Everest Enthusiast
+
+[View the live project here](https://hen0678.github.io/Everest-Enthusiast/)
+
 ## Overview
 Everest Enthusiast is a website for those fascinated with the highest mountain on earth - Mount Everest and who want to learn more. For decades this mountain nestled in the Himalayas in the remote country of Nepal has caputured the imagination of mankind. Even today, with the advent of modern day travel the mountain still holds an air of mystery. 
 
 As the website grows new content will be added, including more interesting facts, high quality images and a detailed timeline of key events. There will also be video content added which will capture iconic areas of the mountain, such as the various base camps, the Hilary step and the summit itself. For those who aspire to one day climb the mountain, or simply basecamp there will be a section dedicated to the type of kit required. 
 
 ![overview-page](assets/media/responsive-overview.png)
+
+## Index
+
+
+## User Experience (UX)
+
+### First Time Visitors
+As a First Time visitor, I want to:
+* Easily understand the main purpose of the site.
+* I want to be able to easily navigate throughout the site to find content.
+* I want to learn some interesting facts about Mount Everest.
+* I want to see high quality images.
+
+### Returning Visitors
+As a returning visitor, I want to to:
+* Check the navigation bar to see what new pages have been created
+* Check what new interesting facts have been added.
+* Check what new images have been added.
+
+### Frequent User 
+* As a frequent user, I want to be able to Subsribe easily to the newsletter to I am the first to be made aware when new contect has been added.
 
 ## Features
 
