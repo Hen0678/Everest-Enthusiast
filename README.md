@@ -94,11 +94,19 @@ The list of additional features to be added at a later date include:
 ### Features
 |Features|Test Conducted|Expected Outcome|Test Outcome|
 |:----|:----|:----|:----|
+|Hamburger toggle works correctly|Tested hamburger icon on all pages|The site menu drops down|Pass|
 |Logo|Check to see if takes user back to homepage|User taken to homepage|Pass|
 |Navbar-Home|Click on the Home link on each page|User taken to Homepage|Pass|
 |Navbar-Interesting Facts|Click on the Interesting Facts link on each page|User taken to Interesting Facts page|Pass|
 |Navbar-Sign Up|Click on the Sign Up link on each page|User taken to Sign Up page|Pass|
 |Social Media links|Click each link on each page to make sure user is taken to correct site on a new tab|User taken to site in new tab|Pass|
+|Sign Up form validates First Name|Tried to Subscribe without entering First Name|Please fill in this field message|Pass|
+|Sign Up form validates Surname|Tried to Subscribe without entering First Surname|Please fill in this field message|Pass|
+|Sign Up form validates Email|Tried to Subscribe with incorrect email format|Please include @ in the email address|Pass|
+|Completed form goes to form dump|Completed all fields and pressed Subscribe|Congratulations message|Pass|
+
+#### Subscribe Form test
+![subscribe-form-test](assets/media/subscribe-form-test.png)
 
 ### Browser Compatability
 |Browser Tested|Intended Appearance|Test Outcome|

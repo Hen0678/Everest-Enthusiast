@@ -203,14 +203,9 @@ main {
     font-size: 1rem;
 }
 
-/*#heading {
-    background: -u
-}
-*/
 #facts {
     padding-top: 50px;
 }
-
 
 /* Footer this has been taken from Love Running as a template but background color amended*/
 #social-media {
@@ -258,11 +253,6 @@ main {
         margin-bottom: 5px;
     }
 
-    /*input,
-    label {
-        display: block;
-    }
- */
     button {
         margin-top: 20px;
     }
