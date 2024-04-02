@@ -137,7 +137,6 @@ main {
 }
 
 #allure {
-    /*text-align: left; */
     margin-left: 10px;
     margin-bottom: 15px;
     margin-top: 15px;
@@ -196,12 +195,13 @@ main {
 }
 
 /* Stacks sign up boxes  */
-#signup-form > * {
+#signup-form>* {
     display: block;
     padding: 5px 10px;
     font-size: 1rem;
 }
 
+/* Pushes heading down to accommodate larger header displays */
 #facts {
     padding-top: 50px;
 }
@@ -225,9 +225,9 @@ main {
 
 /* Creates space between email and subscribe button */
 @media screen and (max-width: 767px) {
-button {
-    margin-top: 20px;
-}
+    button {
+        margin-top: 20px;
+    }
 }
 
 /* Media query: tablets and larger (768px and up) */
@@ -240,7 +240,7 @@ button {
         box-shadow: none;
         width: fit-content;
         padding-right: 1rem;
-        
+
     }
 
     #menu {
