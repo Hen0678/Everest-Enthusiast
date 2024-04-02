@@ -17,7 +17,6 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    /* Generic project styles */
     color: #3a3a3a;
     font-family: 'Montserrat', sans-serif;
 }
@@ -190,12 +189,13 @@ main {
 
 }
 
-/* pushes contact details to the left of the page */
+/* Pushes sign up boxes to the left of the page */
 #signup {
     margin-left: 10px;
     max-width: 700px;
 }
 
+/* Stacks sign up boxes  */
 #signup-form > * {
     display: block;
     padding: 5px 10px;
@@ -206,7 +206,7 @@ main {
     padding-top: 50px;
 }
 
-/* Footer this has been taken from Love Running as a template but background color amended*/
+/* Footer this has been taken from Love Running but adapted */
 #social-media {
     text-align: center;
     padding: 20px 0;
@@ -220,7 +220,14 @@ main {
 #social-media i {
     font-size: 160%;
     padding: 5%;
-    color: black;
+    color: #3a3a3a;
+}
+
+/* Creates space between email and subscribe button */
+@media screen and (max-width: 767px) {
+button {
+    margin-top: 20px;
+}
 }
 
 /* Media query: tablets and larger (768px and up) */
@@ -233,6 +240,7 @@ main {
         box-shadow: none;
         width: fit-content;
         padding-right: 1rem;
+        
     }
 
     #menu {
@@ -240,7 +248,7 @@ main {
     }
 
     #menu>li {
-        padding-left: 1rem;
+        padding-left: 2rem;
     }
 
     .nav-toggle-label {
