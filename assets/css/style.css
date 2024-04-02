@@ -22,7 +22,6 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-/* Header - this has been taken from Love Running as a template but background color amended*/
 header {
     background-color: whitesmoke;
     padding: 0 1rem;
@@ -32,7 +31,6 @@ header {
     max-width: 1500px;
     margin-left: auto;
     margin-right: auto;
-    /*box-shadow: 0 2px 2px #3a3a3a; */
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -53,8 +51,7 @@ h1 {
     letter-spacing: 2px;
     padding-top: 10px;
     padding-bottom: 10px;
-    color: black;
-
+    color: #3a3a3a;
 
 }
 
@@ -62,10 +59,9 @@ h2 {
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: black;
+    color: #3a3a3a;
     text-align: center;
     margin-top: 10px;
-
 
 }
 
@@ -79,20 +75,6 @@ h3 {
 p {
     margin-left: 10px;
     line-height: 20px;
-}
-
-#menu {
-    font-size: 110%;
-    letter-spacing: 4px;
-    list-style-type: none;
-}
-
-#menu>li {
-    margin-bottom: 1em;
-}
-
-.active {
-    border-bottom: 1px solid #3a3a3a;
 }
 
 /* Navbar styles with dropdown toggle */
@@ -116,8 +98,25 @@ nav {
     display: none;
 }
 
+/* Controls toggle size */
 .nav-toggle-label {
     font-size: 2rem;
+}
+
+/* Menu items when viewed on larger device */
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
+#menu>li {
+    margin-bottom: 1em;
+}
+
+/* Underlines page selection on header */
+.active {
+    border-bottom: 1px solid #3a3a3a;
 }
 
 /* Main content */
